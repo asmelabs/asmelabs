@@ -1,1 +1,1 @@
-export const hello = () => "Salam!";
+export * from "./utils";
